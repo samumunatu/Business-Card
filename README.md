@@ -15,3 +15,5 @@ Just open `index.html` in your browser.
 ## Tech used
 - HTML
 - CSS
+Built as part of the Scrimba Frontend Developer Path.
+
